@@ -126,7 +126,7 @@ public static class WebProfileHelper
                     "Economy",
                     [
                         new("Insurance Cost", "5×", RuleChangeType.Changed),
-                        new("Base Repair Cost", "3×", RuleChangeType.Changed),
+                        new("Base Repair Cost", "5×", RuleChangeType.Changed),
                         new("Therapist Healing Cost", "No Therapist Healing", RuleChangeType.Changed)
                     ]),
 

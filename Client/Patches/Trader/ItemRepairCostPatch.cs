@@ -34,7 +34,7 @@ public class ItemRepairCostPatch : ModulePatch
         return profileType switch
         {
             ProfileType.Ultimate => 2f,
-            ProfileType.Hardcore => 3f,
+            ProfileType.Hardcore => 5f,
             _ => 1f
         };
     }
